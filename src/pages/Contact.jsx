@@ -84,8 +84,12 @@ export default function Contact() {
 
               <ul className="contactList">
                 <li>
-                  <strong>Nil</strong> (Co-owner) —{" "}
+                  <strong>Nil</strong> (Owner) —{" "}
                   <span className="contactMention">@niltheoverkill</span>
+                </li>
+                <li>
+                  <strong>Marina</strong> (Head Admin) —{" "}
+                  <span className="contactMention">@remarinated</span>
                 </li>
               </ul>
 
