@@ -13,7 +13,7 @@ export const SOCIALS = [
   },
   {
     label: "LinkedIn",
-    href: "https://www.linkedin.com/company/girlsonlystudy.space",
+    href: "https://www.linkedin.com/company/girlsonlystudy",
   },
   {
     label: "YouTube",
